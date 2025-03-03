@@ -1,13 +1,19 @@
-# data_cleaning
+# Binomial GLM
 
 ## The data
-Garden counts of monarch butterflies were taken across different sites
+Infection by avian malaria of the Seychelles Warbler
 
 ## variables
-- count: Number of butterflies recorded
+- Ageclass: Age category of the bird
 
-- garden: site
+- Sex: male or female
+
+- BodyMassg: weight
+
+- Tarsus length: leg length as a proxy for size
+
+- Malaria: 1 infected, 0 uninfected
 
 
 ## Assignment
-Check and analyse this data with a Poisson GLM
+Check and analyse this data with a Binomial GLM
